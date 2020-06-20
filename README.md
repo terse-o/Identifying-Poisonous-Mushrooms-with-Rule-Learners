@@ -1,7 +1,9 @@
 Identifying Poisonous Mushrooms using Rule Learners
 
 Language: R
+
 Editor: RStudio (v1.2.1335)
+
 Description:Using rule learners this program generates easy-to-understand rules depending on the different appearance 
 attributed of the mushrooms mentioned in the dataset.
 
