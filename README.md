@@ -11,7 +11,11 @@ Packages: RWeka
 Model: One Rule, Ripper Rule
 
 OVERVIEW:
+
 -Collect Data
+
 -Explore Data
+
 -Train OneR model on data
+
 -Evaluate model using JRip model
