@@ -9,7 +9,9 @@ attributed of the mushrooms mentioned in the dataset.
 
 **NOTE:** 
 Link for Mushroom dataset: https://drive.google.com/file/d/1E9t8qoNnPFwIEPtviTbHJYmy5hC5yFzS/view?usp=sharing
+
 **Packages:** *RWeka*
+
 **Model:** One Rule, Ripper Rule
 
 **OVERVIEW:**
